@@ -39,6 +39,11 @@ The projects were completed as part of a Microcontroller Laboratory course and f
 * Interrupt-based distance measurement
 * Real-time event handling without busy waiting
 
+## Lab 3 demonstration
+[Watch demo](https://github.com/laksha0110/Microcontrollers/blob/main/TM4C1294ncpdt_Lab3/Lab3_demo.mp4)
+
+In this demo, As the object goes further all the LEDs start to light up and as it gets closer fewer LEDs light up
+
 ## Learning Outcomes
 
 Through these projects, I gained practical experience with:
