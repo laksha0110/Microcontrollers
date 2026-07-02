@@ -95,8 +95,23 @@ led-3
 ## Lab 4 demonstration
 ## UART Communication
 
-![setup](images/terminal.png)
-[Watch demo](https://github.com/laksha0110/Microcontrollers/blob/main/TM4C1294ncpdt_Lab3/Lab3_demo.mp4)
+## UART Setup
+
+<img width="800" alt="Circuit Setup" src="https://github.com/user-attachments/assets/1b82657e-18de-4f5a-95f4-2e3c221d1a98">
+
+## Testing if putty is working properly 
+
+[▶ Watch the demo](https://github.com/user-attachments/assets/ebb807ca-5f98-4493-9fe8-628c9ea0504d)
+
+## Testing if characters are received using putty
+
+[▶ Watch the demo](https://github.com/user-attachments/assets/ebb807ca-5f98-4493-9fe8-628c9ea0504d)
+
+## Demo of decoding commands to light up led
+
+[▶ Watch the demo](https://github.com/user-attachments/assets/d648a7a3-2a45-4134-8da7-308180b36503)
+
+
 
 
 ## Learning Outcomes
