@@ -101,15 +101,15 @@ led-3
 
 ## Testing if putty is working properly 
 
-[Watch the demo](https://github.com/laksha0110/Microcontrollers/blob/main/TM4C1294ncpdt_Lab4/testing_putty.mp4)
+[Watch the demo](https://github.com/laksha0110/Microcontrollers/blob/main/TM4C1294ncpdt_Lab4/testingPutty.mp4)
 
 ## Testing if characters are received using putty
 
-[Watch the demo](https://github.com/laksha0110/Microcontrollers/blob/main/TM4C1294ncpdt_Lab4/received_character.mp4)
+[Watch the demo](https://github.com/laksha0110/Microcontrollers/blob/main/TM4C1294ncpdt_Lab4/receivedCharacter.mp4)
 
 ## Demo of decoding commands to light up led
 
-[Watch the demo](https://github.com/laksha0110/Microcontrollers/blob/main/TM4C1294ncpdt_Lab4/light_led.mp4)
+[Watch the demo](https://github.com/laksha0110/Microcontrollers/blob/main/TM4C1294ncpdt_Lab4/lightled.mp4)
 
 ## Learning Outcomes
 
