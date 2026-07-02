@@ -101,15 +101,15 @@ led-3
 
 ## Testing if putty is working properly 
 
-[▶ Watch the demo](https://github.com/user-attachments/assets/ebb807ca-5f98-4493-9fe8-628c9ea0504d)
+[Watch the demo](https://github.com/user-attachments/assets/ebb807ca-5f98-4493-9fe8-628c9ea0504d)
 
 ## Testing if characters are received using putty
 
-[▶ Watch the demo](https://github.com/user-attachments/assets/ebb807ca-5f98-4493-9fe8-628c9ea0504d)
+[Watch the demo](https://github.com/user-attachments/assets/ebb807ca-5f98-4493-9fe8-628c9ea0504d)
 
 ## Demo of decoding commands to light up led
 
-[▶ Watch the demo](https://github.com/user-attachments/assets/d648a7a3-2a45-4134-8da7-308180b36503)
+[Watch the demo](https://github.com/user-attachments/assets/d648a7a3-2a45-4134-8da7-308180b36503)
 
 
 
