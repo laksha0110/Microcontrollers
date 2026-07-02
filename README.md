@@ -55,5 +55,68 @@ Through these projects, I gained practical experience with:
 * Interrupt-driven software design
 * Embedded debugging and testing
 
-## Author
-Laksha Mugon
+#Lab 4 UART Communication using TM4C1294NCPDT
+
+## Overview
+
+This project was developed as part of **Microcontroller Lab 4** and demonstrates serial communication between a **TM4C1294NCPDT** microcontroller and a PC using the **UART protocol**. The project is implemented using **register-level programming** in C without external driver libraries.
+
+## Features
+
+- Configure UART6 for serial communication
+- Transmit data from the microcontroller to the PC
+- Receive character strings from the terminal
+- Store and process user input
+- Decode UART commands to control LEDs on Port M
+- Support multiple baud rates and UART data formats
+
+## Hardware & Software
+
+- TM4C1294NCPDT LaunchPad
+- Code Composer Studio (CCS)
+- PuTTY Terminal
+- UART6 (Port P)
+
+## Commands
+
+The following commands are supported to control the onboard LEDs:
+
+```text
+led+0
+led+1
+led+2
+led+3
+
+led-0
+led-1
+led-2
+led-3
+```
+## Lab 4 demonstration
+## UART Communication
+
+## UART Setup
+
+<img width="800" alt="Circuit Setup" src="https://github.com/user-attachments/assets/1b82657e-18de-4f5a-95f4-2e3c221d1a98">
+
+## Testing if putty is working properly 
+
+[Watch the demo](https://github.com/laksha0110/Microcontrollers/blob/main/TM4C1294ncpdt_Lab4/testing_putty.mp4)
+
+## Testing if characters are received using putty
+
+[Watch the demo](https://github.com/laksha0110/Microcontrollers/blob/main/TM4C1294ncpdt_Lab4/received_character.mp4)
+
+## Demo of decoding commands to light up led
+
+[Watch the demo](https://github.com/laksha0110/Microcontrollers/blob/main/TM4C1294ncpdt_Lab4/light_led.mp4)
+
+## Learning Outcomes
+
+- UART configuration using registers
+- Serial communication fundamentals
+- GPIO alternate functions
+- Character buffer handling
+- Simple command parsing
+- Embedded C programming
+
