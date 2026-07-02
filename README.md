@@ -101,7 +101,7 @@ led-3
 
 ## Testing if putty is working properly 
 
-[Watch the demo](https://github.com/user-attachments/assets/35c9113a-6d85-494a-af67-f096dd644a0c)
+[Watch the demo](https://github.com/laksha0110/Microcontrollers/blob/main/TM4C1294ncpdt_Lab4/testingPutty.mp4)
 
 
 ## Testing if characters are received using putty
