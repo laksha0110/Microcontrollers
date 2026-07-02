@@ -111,9 +111,6 @@ led-3
 
 [Watch the demo](https://github.com/user-attachments/assets/d648a7a3-2a45-4134-8da7-308180b36503)
 
-
-
-
 ## Learning Outcomes
 
 - UART configuration using registers
